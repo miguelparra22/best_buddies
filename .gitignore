@@ -1,0 +1,9 @@
+best-env
+./__pycache__
+myproject\__pycache__
+.vscode
+myapp/__pycache__
+myproject/__pycache__
+myapp/migrationns/__pycache__
+
+
